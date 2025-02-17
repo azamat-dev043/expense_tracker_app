@@ -21,4 +21,8 @@ public class ExpensesJournal {
     public void String() {
         System.out.println("Hello!");
     }
+
+    public void decrease(int a) {
+        System.out.println(a);
+    }
 }
