@@ -17,5 +17,8 @@ public class ExpensesJournal {
         this.initial_amount = initial_amount;
     }
 
-    
+
+    public void String() {
+        System.out.println("Hello!");
+    }
 }
